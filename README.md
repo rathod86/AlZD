@@ -1,3 +1,5 @@
+link:-https://neurodetect.lovable.app/
+
 # NeuroDetect
 
 AI-assisted Alzheimer's / cognitive-stage screening interface. Upload a brain MRI scan and get a predicted cognitive stage, confidence breakdown, Grad-CAM heatmap, brain-region analysis, symptom checker, risk assessment and a comparison timeline.
